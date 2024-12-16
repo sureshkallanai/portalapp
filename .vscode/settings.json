@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/514669ff-c1ee-49fe-b3b5-0124bbbe6c88/resourceGroups/rg-dev-retailservice/providers/Microsoft.Web/sites/dev-webapp-retailservice",
+    "appService.deploySubpath": "dist"
+}
